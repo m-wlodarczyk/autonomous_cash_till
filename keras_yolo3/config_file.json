@@ -1,0 +1,9 @@
+{
+  "annotation_path": "D:\\Projects\\autonomic_cash_till\\CashTill\\AnnotationData\\Train\\train.txt",
+  "log_dir": "D:\\Projects\\autonomic_cash_till\\keras_yolo3\\log_dir\\logs",
+  "classes_path": "D:\\Projects\\autonomic_cash_till\\keras_yolo3\\model_data\\classes.txt",
+  "anchors_path": "D:\\Projects\\autonomic_cash_till\\keras_yolo3\\model_data\\yolo_anchors.txt",
+  "weights_path" : "",
+  "input_shape" : [288, 352]
+}
+
